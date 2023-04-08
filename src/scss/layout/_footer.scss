@@ -1,0 +1,13 @@
+@use 'base/variables' as v;
+
+
+.end {
+    background-color: v.$rosa;
+    padding: 2rem;
+    p {
+        margin: 0;
+        text-align: center;
+        font-size: 2rem; 
+        color: v.$blanco;
+    }
+}
